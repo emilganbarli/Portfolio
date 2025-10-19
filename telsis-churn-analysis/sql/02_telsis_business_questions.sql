@@ -234,5 +234,5 @@ SELECT
 FROM tenure_quartiles
 GROUP BY quartile
 ORDER BY quartile;
-
 ;
+
