@@ -1,4 +1,3 @@
-SELECT * FROM telsis_mw;
 --- Business Questions ---
 -- 1) What is the overall churn rate and how many customers does it represent?
 SELECT
@@ -235,4 +234,5 @@ SELECT
 FROM tenure_quartiles
 GROUP BY quartile
 ORDER BY quartile;
+
 ;
