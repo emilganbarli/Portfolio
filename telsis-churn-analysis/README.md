@@ -1,7 +1,7 @@
 # Telsis Churn Analysis
 
 ## About the Project
-This project analyzes customer churn behavior for a fictional telecom company, **TelSis**.  
+This project analyzes customer churn behavior for a fictional telecom company, **Telsis**.  
 The goal is to identify key factors driving churn and to visualize actionable insights through an interactive Tableau dashboard.  
 The workflow covers **data preparation (SQL)**, **business analysis (SQL)**, and **visual storytelling (Tableau)**.
 
