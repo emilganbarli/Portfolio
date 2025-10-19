@@ -1,1 +1,1 @@
-"# Emil Ganbarli - Analytics Portfolio" 
+# Emil Ganbarli - Analytics Portfolio 
