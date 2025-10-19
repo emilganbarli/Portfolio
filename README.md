@@ -6,12 +6,6 @@ Each folder contains datasets, scripts, and interactive dashboards built around 
 
 *(More projects will be added as I expand my portfolio.)*
 
-## 🧠 Technical Skills
-- SQL (PostgreSQL)
-- Tableau Public
-- Excel / Power Query
-- Python (pandas, numpy, matplotlib)
-- Data cleaning, KPI design, and visualization
 
 ## 📫 Contact
 **Email:** [emilganbarli@gmail.com]  
