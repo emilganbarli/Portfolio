@@ -27,6 +27,7 @@ Source file: `data/telsis_data.csv`
 
 ## Tableau Dashboard
 Click any image below to view the **interactive version on Tableau Public**
+
 [![Preview 1](tableau/preview_1.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
 [![Preview 2](tableau/preview_2.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
 [![Preview 3](tableau/preview_3.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
