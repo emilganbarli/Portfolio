@@ -1,4 +1,4 @@
-# TelSis Churn Analysis
+# Telsis Churn Analysis
 
 ## About the Project
 This project analyzes customer churn behavior for a fictional telecom company, **TelSis**.  
@@ -15,17 +15,20 @@ Source file: `data/telsis_data.csv`
 
 ## SQL Queries
 1. **Data Preparation (`01_telsis_data_prep.sql`)**  
-   - Cleaned missing values, standardized field names  
-   - Created new analytical fields (e.g., tenure groups, churn flag, service counts)  
+   - Standardized field names and cleaned the data  
+   - Created new analytical fields (e.g., tenure groups, age groups, international usage status etc.)  
 
 2. **Business Questions (`02_business_questions.sql`)**  
-   - Contains 15 analytical queries exploring churn rate by demographics, contract type, and service features  
-   - Results guided the Tableau visual design and key metrics  
+- Includes 15+ analytical SQL queries answering churn-related business questions such as:
+   - Which 5 states have the highest churn rate?
+   - Average monthly charge of churned vs retained customers?
+   - Is there any correlation between customer service calls and churn?
+- Results guided the Tableau visual design and key metrics  
 
 ## Tableau Dashboard
-
+Click any image below to view the **interactive version on Tableau Public**
 [![Preview 1](tableau/preview_1.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
 [![Preview 2](tableau/preview_2.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
 [![Preview 3](tableau/preview_3.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
 [![Preview 4](tableau/preview_4.png)](https://public.tableau.com/views/telsis_churn/ChurnDashboard)
-Option B — 2×2 grid (uses HTML for sizing):
+
