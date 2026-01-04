@@ -1,7 +1,7 @@
-# Telsis Churn Analysis
+# Churn Analysis
 
 ## About the Project
-This project analyzes customer churn behavior for a fictional telecom company, **Telsis**.  
+This project analyzes customer churn behavior for a fictional telecom company.  
 The goal is to identify key factors driving churn and to visualize actionable insights through an interactive Tableau dashboard.  
 The workflow covers **data preparation (SQL)**, **business analysis (SQL)**, and **visual storytelling (Tableau)**.
 
@@ -14,11 +14,11 @@ The dataset contains **6,600+ customer records** with details such as:
 Source file: `data/telsis_data.csv`
 
 ## SQL Queries
-1. **Data Preparation (`01_telsis_data_prep.sql`)**  
+1. **Data Preparation (`churn_analysis_prep`)**  
    - Standardized field names and cleaned the data  
    - Created new analytical fields (e.g., tenure groups, age groups, international usage status etc.)  
 
-2. **Business Questions (`02_business_questions.sql`)**  
+2. **Business Questions (`churn_analysis.sql`)**  
 - Includes 15+ analytical SQL queries answering churn-related business questions such as:
    - Which 5 states have the highest churn rate?
    - Average monthly charge of churned vs retained customers?
