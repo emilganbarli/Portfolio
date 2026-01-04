@@ -11,7 +11,7 @@ The dataset contains **6,600+ customer records** with details such as:
 - Monthly charges, tenure, and customer satisfaction
 - Demographics (gender, age, location)
 
-Source file: `data/telsis_data.csv`
+Source file: `data/churn_analysis.csv`
 
 ## SQL Queries
 1. **Data Preparation (`churn_analysis_prep`)**  
